@@ -1,0 +1,13 @@
+tcpmeter - a tool for measuring TCP upload and download speeds and RTT latency.
+
+* Build
+	go build
+
+* Documentation
+	godoc
+
+* License
+	MIT license (see LICENSE file).
+
+* Contact
+	skip.tavakkolian@gmail.com
