@@ -1,12 +1,12 @@
-*tcpmeter* - a tool for measuring TCP upload and download speeds and RTT latency.
+**tcpmeter** - a tool for measuring TCP upload and download speeds and RTT latency.
 
-## Build
+### Build
 
 ```shell
 go build
 ```
 
-## Run
+#### Run
 
 * start the server on the remote machine:
 
@@ -16,7 +16,7 @@ go build
 
   `tcpmeter -c`
 
-  then navigate to http://localhost:8080 using an HTML5 browser to interact with the client.
+  then navigate to `http://localhost:8080` using an HTML5 browser to interact with the client.
 
 ## Documentation
 
@@ -29,5 +29,5 @@ go build
  `skip.tavakkolian@gmail.com`
 	
 ## Screenshot
-![alt tag](https://drive.google.com/open?id=0B0sQhgOyZZBsZ1hiS25KbG5KSEU)
+![alt tag](https://drive.google.com/open?id=0B0sQhgOyZZBsZ1hiS25KbG5KSEU.png)
 
