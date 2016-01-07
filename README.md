@@ -29,5 +29,5 @@ go build
  `skip.tavakkolian@gmail.com`
 	
 ## Screenshot
-![alt tag](https://drive.google.com/open?id=0B0sQhgOyZZBsZ1hiS25KbG5KSEU.png)
+![alt text](https://github.com/9nut/tcpmeter/raw/master/tcpmeter.png "tcpmeter client web UI")
 
